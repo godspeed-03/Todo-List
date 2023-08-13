@@ -6,6 +6,6 @@ body{
     background-color: rgb(99, 240, 240);
 }
 
-:root::-webkit-scrollbar {
+:rootev::-webkit-scrollbar {
     display: none;
 }
